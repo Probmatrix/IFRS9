@@ -13,3 +13,10 @@ For a more comprehensive approach, Probmatrix offers a powerful and intuitive to
 Please feel free to reach out to us.
 
 *Note: Save tool as .xlsm (Macro enabled workbook)
+
+The tool uses VBA macros, so Excel may prompt you to enable them. To ensure macros are enabled, please follow these steps:
+
+Right-click on the tool file and select Properties.
+In the General tab, check the Unblock option.
+Click Apply, then OK.
+
